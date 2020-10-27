@@ -45,7 +45,7 @@ After clone, go to folder Protein_Block where contain all we need. Just run .exe
 
 ## Advance Information
 
-To know more about BioMaster2.0, you can come to our [wiki](https://2020.igem.org/Team:UESTC-Software) page. What's more, here is a demonstration [viedo](https://2020.igem.org/Team:UESTC-Software/Demonstrate) which can be a user guide for you to use Biomaster2.0
+To know more about BioMaster2.0, you can come to our [wiki](https://2020.igem.org/Team:UESTC-Software) page. What's more, here is a demonstration [vedo](https://2020.igem.org/Team:UESTC-Software/Demonstrate) which can be a user guide for you to use Biomaster2.0
 
 ## Contact Us
 
