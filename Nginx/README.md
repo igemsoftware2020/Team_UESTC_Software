@@ -6,7 +6,7 @@ In order to share our project widely, we decided to use Nginx. If you only want 
 
 If you want to run our project on your localhost to be deepen. Please make sure you have already reached those requirements
 
-- windows
+- Windows
 
 In this folder, click the nginx.exe to run the project, then, you can visit [http://localhost:80](http://localhost/) to see our project running on your local.
 
@@ -14,10 +14,9 @@ In this folder, click the nginx.exe to run the project, then, you can visit [htt
 
 CPD3DS integrates CATH and SCOP/SCOP2 , in order to provide as comprehensive and detailed structure domain information as possible.  At present, we have achieved remarkable results in four aspects: design ideas  originality , data integrity, content accuracy and user-friendliness
 
-1.  Initiated domain classification according to the shape of domain through 3Dzd & K-means
+1.  Initiated domain classification according to the shape of domain through 3DZD & K-means
 2. Through Uniprot, CATH, SCOP/SCOP2 and PDB, we have integrated domain division, related functions and probability combination into our own project website, so as to form a complete system of domain shape division, sequence, structure, function and evolutionary relationship. 
 3. We use an authoritative database recognized by the synthetic biology community. Their strict review system and supporting materials ensure the accuracy of the content on our website. 
-4. We use
 
 We strive to make CPD3DS a more integrated and user-friendly database that provides synthetic biologists with long-term, stable data updates and search services. 
 
@@ -33,7 +32,7 @@ After clone, go to folder Protein_Block where contain all we need. Just run .exe
 
 ## Advance Information
 
-To know more about BioMaster2.0, you can come to our [wiki](https://2020.igem.org/Team:UESTC-Software) page. What's more, here is a demonstration [viedo](https://2020.igem.org/Team:UESTC-Software/Demonstrate) which can be a user guide for you to use Biomaster2.0
+To know more about CPD3DS, you can come to our [wiki](https://2020.igem.org/Team:UESTC-Software) page. What's more, here is a demonstration [vedio](https://2020.igem.org/Team:UESTC-Software/Demonstrate) which can be a user guide for you to use CPD3DS
 
 ## Contact Us
 
