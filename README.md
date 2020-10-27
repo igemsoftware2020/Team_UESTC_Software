@@ -35,9 +35,9 @@ We strive to make CPD3DS a more integrated and user-friendly database that provi
 
 Currently,  the team has developed very practical functions on CPD3DS and plan to develop it further.
 
-## Protein block
+## Protein brick
 
-Hope to make the idea of ynthetic biology more accessible and easier to the public, we decided to develop a puzzle game. Protein block comes out.
+Hope to make the idea of ynthetic biology more accessible and easier to the public, we decided to develop a puzzle game. Protein brick comes out.
 
 ### Usage
 
