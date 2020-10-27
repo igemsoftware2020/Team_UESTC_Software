@@ -24,11 +24,11 @@ Currently,  the team has developed very practical functions on CPD3DS and plan t
 
 ## Protein block
 
-Hope to make the idea of ynthetic biology more accessible and easier to the public, we decided to develop a puzzle game.  Protein block comes out.
+Hope to make the idea of ynthetic biology more accessible and easier to the public, we decided to develop a puzzle game.  Protein brick comes out.
 
 ### Usage
 
-After clone, go to folder Protein_Block where contain all we need. Just run .exe in the protein block file directly to play. 
+After clone, go to folder Protein_Block where contain all we need. Just run .exe in the protein brick file directly to play. 
 
 ## Advance Information
 
