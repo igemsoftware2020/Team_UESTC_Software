@@ -40,7 +40,7 @@ Hope to make the idea of ynthetic biology more accessible and easier to the publ
 
 ### Usage
 
-After clone, go to folder Protein_Block where contain all we need. Just run .exe in the protein block file directly to play. 
+After clone, go to folder Protein_Block where contain all we need. Just run .exe in the protein brick file directly to play. 
 
 ## Advance Information
 
