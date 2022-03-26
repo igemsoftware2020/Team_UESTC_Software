@@ -2,7 +2,7 @@
 
 ## Installation
 
-In order to share our project widely, we decided to use Nginx. If you only want to try CPD3DS, just click [here](http://104.168.165.152/).
+In order to share our project widely, we decided to use Nginx. If you only want to try CPD3DS, just click [here](http://175.24.69.122:8880/).
 
 If you want to run our project on your localhost to be deepen. Please make sure you have already reached those requirements.
 
