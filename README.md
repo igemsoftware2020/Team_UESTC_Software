@@ -48,5 +48,5 @@ To know more about CPD3DS, you can come to our [wiki](https://2020.igem.org/Team
 
 ## Contact Us
 
-If you have any suggestions, welcome to contact us on [uestcsoftware@vip.qq.com](mailto:uestcsoftware@vip.qq.com).
+If you have any suggestions, welcome to contact us on [zhotoa@foxail.com](mailto:zhotoa@foxail.com).
 
